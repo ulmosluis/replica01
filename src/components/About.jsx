@@ -1,6 +1,7 @@
 import React from 'react';
 import './About.css'; // Optional: Add styles for the about section
 
+
 function About() {
   return (
     <section className="about" id="about">
