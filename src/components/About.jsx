@@ -1,5 +1,5 @@
 import React from 'react';
-import './About.css'; // Optional: Add styles for the about section
+/* import './About.css'; // Optional: Add styles for the about section */
 
 
 function About() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import './Testimonials.css'; // Optional: Add styles for the testimonials section
+/* import './Testimonials.css'; // Optional: Add styles for the testimonials section */
 
 function Testimonials() {
   return (
